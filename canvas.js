@@ -1,2 +1,2 @@
 alert('Canvas 0.1');
-window.open("https://dashboard.shocz.repl.co","_blank");
+window.open("https://canvasdashboard.shocz.repl.co","_blank");
