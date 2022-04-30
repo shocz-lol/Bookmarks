@@ -1,3 +1,1 @@
-function init() {
-  window.open("https://dashboard.shocz.repl.co","_blank")
-}
+window.open("https://dashboard.shocz.repl.co","_blank")
